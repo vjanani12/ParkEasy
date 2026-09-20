@@ -133,7 +133,7 @@ git clone https://github.com/vjanani12/ParkEasy.git
 
 **Janani V**
 CSE Student | Aspiring Full-Stack-Developer
-GitHub:
+GitHub:https://github.com/vjanani12
 
 ## 🌍Project Link
 -Live Website:
